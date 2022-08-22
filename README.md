@@ -1,1 +1,5 @@
-# tarea-1-recsys
+# README
+
+## Estructura de archivos
+
+[Insertar estructura de archivos al final]
