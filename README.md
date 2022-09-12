@@ -2,4 +2,4 @@
 
 ## Estructura de archivos
 
-[Insertar estructura de archivos al final]
+Tanto `Tarea.ipynb` como los archivos `.csv` entregados para la tarea deben estar en el mismo directorio.
